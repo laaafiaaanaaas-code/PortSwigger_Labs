@@ -1,2 +1,2 @@
-# Blnid_SQLi
-This is a python program to automate Blind SQL injection attack . I Used it on a PortSwigger  lab
+# PortSwigger Labs
+In this section i will share some of the automation scripts i wrote (in python) to solve PortSwigger labs 
